@@ -1,0 +1,110 @@
+productName,warehouseName,TotalQuantitySold,TotalRevenue,quantityInStock
+"1992 Ferrari 360 Spider red",East,1808,165323.52,8347
+"2001 Ferrari Enzo",East,1019,114341.99,3619
+"1952 Alpine Renault 1300",East,961,111206.92,7305
+"2003 Harley-Davidson Eagle Drag Bike",North,985,101100.40,5582
+"1968 Ford Mustang",East,933,92581.59,68
+"1969 Ford Falcon",East,965,86821.05,1049
+"2002 Suzuki XREO",North,1028,86711.80,9997
+"1928 Mercedes-Benz SSK",West,880,84647.20,548
+"1980s Black Hawk Helicopter",North,1040,83636.80,5330
+"1957 Corvette Convertible",East,1013,79895.31,1249
+"1917 Grand Touring Sedan",West,918,76469.40,2724
+"1948 Porsche Type 356 Roadster",East,948,75005.76,8990
+"1962 Volkswagen Microbus",South,1029,68377.05,2327
+"1976 Ford Gran Torino",East,915,67252.50,9127
+"1957 Chevy Pickup",South,1056,66316.80,6125
+"1932 Model A Ford J-Coupe",West,957,65698.05,9354
+"1999 Indy 500 Monte Carlo SS",East,855,64330.20,8164
+"1998 Chrysler Plymouth Prowler",East,986,61348.92,4724
+"1903 Ford Model A",West,883,60300.07,3913
+"1969 Corvair Monza",East,963,59648.22,6906
+"1940 Ford Pickup Truck",South,999,58281.66,2613
+"ATA: B757-300",North,973,57718.36,7106
+"1958 Setra Bus",South,972,57124.44,1579
+"1969 Dodge Charger",East,992,55978.56,7323
+"1993 Mazda RX-7",East,947,54954.41,3975
+"1982 Camaro Z28",East,997,54456.14,6934
+"1997 BMW R 1100 S",North,1033,53550.72,7003
+"1965 Aston Martin DB5",East,914,53450.72,9042
+"1972 Alfa Romeo GTA",East,1030,51829.60,3252
+"1964 Mercedes Tour Bus",South,1053,50407.11,8258
+"1996 Moto Guzzi 1100i",North,999,49900.05,6625
+"1969 Harley Davidson Ultimate Chopper",North,1057,49562.73,7933
+"1970 Triumph Spitfire",East,945,48856.50,5545
+"2002 Yamaha YZR M1",North,992,46812.48,600
+"1937 Lincoln Berline",West,1111,46795.32,8693
+"The Titanic",South,952,46724.16,1956
+"Diamond T620 Semi-Skirted Tanker",South,979,46463.34,1016
+"1961 Chevrolet Impala",East,941,45647.91,7869
+"HMS Bounty",South,897,45468.93,3501
+"1941 Chevrolet Special Deluxe Cabriolet",West,1076,44428.04,2378
+"1995 Honda Civic",East,917,44346.12,9772
+"1956 Porsche 356A Coupe",East,1052,44320.76,6600
+"1970 Plymouth Hemi Cuda",East,900,43092.00,5663
+"1932 Alfa Romeo 8C2300 Spider Sport",West,866,42234.82,6553
+"1913 Ford Model T Speedster",West,1038,42070.14,4189
+"1992 Porsche Cayenne Turbo Silver",East,867,42049.50,6582
+"1928 British Royal Navy Airplane",North,972,41484.96,3627
+"1949 Jaguar XK 120",East,949,41395.38,2350
+"1917 Maxwell Touring Car",West,992,41336.64,7913
+"1962 LanciaA Delta 16V",East,932,41306.24,6791
+"1974 Ducati 350 Mk3 Desmo",North,898,41236.16,3341
+"1912 Ford Model T Delivery Wagon",West,991,41225.60,9173
+"18th century schooner",South,1011,40996.05,1898
+"American Airlines: MD-11S",North,1085,40969.60,8820
+"The Queen Mary",South,896,40929.28,5088
+"Corsair F4U ( Bird Cage)",North,1051,40883.90,6812
+"2002 Chevy Corvette",East,894,40203.18,9446
+"18th Century Vintage Horse Carriage",West,907,39889.86,5992
+"1960 BSA Gold Star DBD34",North,1015,39432.75,15
+"1936 Chrysler Airflow",West,983,39251.19,4710
+"1968 Dodge Charger",East,925,39109.00,9123
+"The USS Constitution Ship",South,1020,39076.20,7083
+"1952 Citroen-15CV",East,873,38953.26,1452
+"The Mayflower",South,898,38892.38,737
+"1980’s GM Manhattan Express",South,911,38608.18,5099
+"1940s Ford truck",South,1061,38535.52,3128
+"1900s Vintage Tri-Plane",North,1009,36545.98,2756
+"American Airlines: B767-300",North,894,35929.86,5841
+"1926 Ford Fire Engine",South,998,35778.30,2018
+"1937 Horch 930V Limousine",West,884,34873.80,2902
+"1928 Ford Phaeton Deluxe",West,972,34768.44,136
+"1904 Buick Runabout",West,990,34758.90,8290
+"1936 Harley Davidson El Knucklehead",North,945,34341.30,4357
+"1997 BMW F650 ST",North,1014,33431.58,178
+"1999 Yamaha Speed Boat",South,966,33240.06,4259
+"1950's Chicago Surface Lines Streetcar",South,934,33082.28,8601
+"P-51-D Mustang",North,917,32535.16,992
+"1940 Ford Delivery Sedan",West,923,32508.06,6621
+"1900s Vintage Bi-Plane",North,940,32204.40,5942
+"1996 Peterbilt 379 Stake Bed with Outrigger",South,988,30657.64,814
+"Collectable Wooden Train",South,918,30551.04,6450
+"1969 Dodge Super Bee",East,974,30544.64,1917
+"1969 Chevrolet Camaro Z28",East,870,30537.00,4695
+"The Schooner Bluenose",South,934,30513.78,1897
+"America West Airlines B757-200",North,984,30425.28,9653
+"1936 Mercedes-Benz 500K Special Roadster",West,960,28464.00,8635
+"1957 Ford Thunderbird",East,767,28425.02,3209
+"1957 Vespa GS150",North,959,28021.98,7689
+"1934 Ford V8 Coupe",West,985,27688.35,5649
+"1939 Cadillac Limousine",West,995,27034.15,6645
+"1954 Greyhound Scenicruiser",South,955,26864.15,2874
+"F/A 18 Hornet 1/72",North,1047,26803.20,551
+"1970 Dodge Coronet",East,976,24819.68,4074
+"1938 Cadillac V-16 Presidential Limousine",West,955,23101.45,2847
+"1911 Ford Town Car",West,832,22663.68,540
+"1948 Porsche 356-A Roadster",East,972,22453.20,8826
+"1971 Alpine Renault 1600s",East,969,21947.85,7995
+"1982 Ducati 900 Monster",North,947,20985.52,6840
+"Pont Yacht",South,958,20405.40,414
+"1962 City of Detroit Streetcar",South,966,20372.94,1645
+"1982 Lamborghini Diablo",East,912,19626.24,7723
+"1970 Chevy Chevelle SS 454",East,803,19472.75,1005
+"1966 Shelby Cobra 427 S/C",East,915,19333.95,8197
+"1958 Chevy Corvette Limited Edition",East,983,19119.35,2542
+"1930 Buick Marquette Phaeton",West,1074,17806.92,7062
+"Boeing X-32A JSF",North,960,16214.40,4857
+"1936 Mercedes Benz 500k Roadster",West,824,15886.72,2081
+"1982 Ducati 996 R",North,906,14577.54,9241
+"1939 Chevrolet Deluxe Coupe",West,937,9950.94,7332

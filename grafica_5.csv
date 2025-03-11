@@ -1,0 +1,8 @@
+productLine,warehouseName,TotalRevenue,TotalUnitsSold,TotalStockAvailable
+"Classic Cars",East,1953984.94,35582,5844033
+"Vintage Cars",West,933851.74,22933,3439570
+Motorcycles,North,599665.01,12778,1915517
+"Trucks and Buses",South,517414.19,11001,1003828
+Planes,North,475351.90,11872,1744036
+Ships,South,336246.24,8532,732251
+Trains,South,84006.26,2818,450792

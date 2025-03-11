@@ -1,0 +1,110 @@
+productName,productLine,warehouseName,quantityInStock,TotalQuantityOrdered,QuantityDifference
+"2002 Suzuki XREO",Motorcycles,North,9997,1028,8969
+"1995 Honda Civic","Classic Cars",East,9772,917,8855
+"America West Airlines B757-200",Planes,North,9653,984,8669
+"2002 Chevy Corvette","Classic Cars",East,9446,894,8552
+"1932 Model A Ford J-Coupe","Vintage Cars",West,9354,957,8397
+"1982 Ducati 996 R",Motorcycles,North,9241,906,8335
+"1912 Ford Model T Delivery Wagon","Vintage Cars",West,9173,991,8182
+"1976 Ford Gran Torino","Classic Cars",East,9127,915,8212
+"1968 Dodge Charger","Classic Cars",East,9123,925,8198
+"1965 Aston Martin DB5","Classic Cars",East,9042,914,8128
+"1948 Porsche Type 356 Roadster","Classic Cars",East,8990,948,8042
+"1948 Porsche 356-A Roadster","Classic Cars",East,8826,972,7854
+"American Airlines: MD-11S",Planes,North,8820,1085,7735
+"1937 Lincoln Berline","Vintage Cars",West,8693,1111,7582
+"1936 Mercedes-Benz 500K Special Roadster","Vintage Cars",West,8635,960,7675
+"1950's Chicago Surface Lines Streetcar",Trains,South,8601,934,7667
+"1992 Ferrari 360 Spider red","Classic Cars",East,8347,1808,6539
+"1904 Buick Runabout","Vintage Cars",West,8290,990,7300
+"1964 Mercedes Tour Bus","Trucks and Buses",South,8258,1053,7205
+"1966 Shelby Cobra 427 S/C","Classic Cars",East,8197,915,7282
+"1999 Indy 500 Monte Carlo SS","Classic Cars",East,8164,855,7309
+"1971 Alpine Renault 1600s","Classic Cars",East,7995,969,7026
+"1969 Harley Davidson Ultimate Chopper",Motorcycles,North,7933,1057,6876
+"1917 Maxwell Touring Car","Vintage Cars",West,7913,992,6921
+"1961 Chevrolet Impala","Classic Cars",East,7869,941,6928
+"1982 Lamborghini Diablo","Classic Cars",East,7723,912,6811
+"1957 Vespa GS150",Motorcycles,North,7689,959,6730
+"1939 Chevrolet Deluxe Coupe","Vintage Cars",West,7332,937,6395
+"1969 Dodge Charger","Classic Cars",East,7323,992,6331
+"1952 Alpine Renault 1300","Classic Cars",East,7305,961,6344
+"ATA: B757-300",Planes,North,7106,973,6133
+"The USS Constitution Ship",Ships,South,7083,1020,6063
+"1930 Buick Marquette Phaeton","Vintage Cars",West,7062,1074,5988
+"1997 BMW R 1100 S",Motorcycles,North,7003,1033,5970
+"1982 Camaro Z28","Classic Cars",East,6934,997,5937
+"1969 Corvair Monza","Classic Cars",East,6906,963,5943
+"1982 Ducati 900 Monster",Motorcycles,North,6840,947,5893
+"Corsair F4U ( Bird Cage)",Planes,North,6812,1051,5761
+"1962 LanciaA Delta 16V","Classic Cars",East,6791,932,5859
+"1939 Cadillac Limousine","Vintage Cars",West,6645,995,5650
+"1996 Moto Guzzi 1100i",Motorcycles,North,6625,999,5626
+"1940 Ford Delivery Sedan","Vintage Cars",West,6621,923,5698
+"1956 Porsche 356A Coupe","Classic Cars",East,6600,1052,5548
+"1992 Porsche Cayenne Turbo Silver","Classic Cars",East,6582,867,5715
+"1932 Alfa Romeo 8C2300 Spider Sport","Vintage Cars",West,6553,866,5687
+"Collectable Wooden Train",Trains,South,6450,918,5532
+"1957 Chevy Pickup","Trucks and Buses",South,6125,1056,5069
+"18th Century Vintage Horse Carriage","Vintage Cars",West,5992,907,5085
+"1900s Vintage Bi-Plane",Planes,North,5942,940,5002
+"American Airlines: B767-300",Planes,North,5841,894,4947
+"1970 Plymouth Hemi Cuda","Classic Cars",East,5663,900,4763
+"1934 Ford V8 Coupe","Vintage Cars",West,5649,985,4664
+"2003 Harley-Davidson Eagle Drag Bike",Motorcycles,North,5582,985,4597
+"1970 Triumph Spitfire","Classic Cars",East,5545,945,4600
+"1980s Black Hawk Helicopter",Planes,North,5330,1040,4290
+"1980’s GM Manhattan Express","Trucks and Buses",South,5099,911,4188
+"The Queen Mary",Ships,South,5088,896,4192
+"Boeing X-32A JSF",Planes,North,4857,960,3897
+"1998 Chrysler Plymouth Prowler","Classic Cars",East,4724,986,3738
+"1936 Chrysler Airflow","Vintage Cars",West,4710,983,3727
+"1969 Chevrolet Camaro Z28","Classic Cars",East,4695,870,3825
+"1936 Harley Davidson El Knucklehead",Motorcycles,North,4357,945,3412
+"1999 Yamaha Speed Boat",Ships,South,4259,966,3293
+"1913 Ford Model T Speedster","Vintage Cars",West,4189,1038,3151
+"1970 Dodge Coronet","Classic Cars",East,4074,976,3098
+"1993 Mazda RX-7","Classic Cars",East,3975,947,3028
+"1903 Ford Model A","Vintage Cars",West,3913,883,3030
+"1928 British Royal Navy Airplane",Planes,North,3627,972,2655
+"2001 Ferrari Enzo","Classic Cars",East,3619,1019,2600
+"HMS Bounty",Ships,South,3501,897,2604
+"1974 Ducati 350 Mk3 Desmo",Motorcycles,North,3341,898,2443
+"1972 Alfa Romeo GTA","Classic Cars",East,3252,1030,2222
+"1957 Ford Thunderbird","Classic Cars",East,3209,767,2442
+"1940s Ford truck","Trucks and Buses",South,3128,1061,2067
+"1937 Horch 930V Limousine","Vintage Cars",West,2902,884,2018
+"1954 Greyhound Scenicruiser","Trucks and Buses",South,2874,955,1919
+"1938 Cadillac V-16 Presidential Limousine","Vintage Cars",West,2847,955,1892
+"1900s Vintage Tri-Plane",Planes,North,2756,1009,1747
+"1917 Grand Touring Sedan","Vintage Cars",West,2724,918,1806
+"1940 Ford Pickup Truck","Trucks and Buses",South,2613,999,1614
+"1958 Chevy Corvette Limited Edition","Classic Cars",East,2542,983,1559
+"1941 Chevrolet Special Deluxe Cabriolet","Vintage Cars",West,2378,1076,1302
+"1949 Jaguar XK 120","Classic Cars",East,2350,949,1401
+"1962 Volkswagen Microbus","Trucks and Buses",South,2327,1029,1298
+"1936 Mercedes Benz 500k Roadster","Vintage Cars",West,2081,824,1257
+"1926 Ford Fire Engine","Trucks and Buses",South,2018,998,1020
+"The Titanic",Ships,South,1956,952,1004
+"1969 Dodge Super Bee","Classic Cars",East,1917,974,943
+"18th century schooner",Ships,South,1898,1011,887
+"The Schooner Bluenose",Ships,South,1897,934,963
+"1962 City of Detroit Streetcar",Trains,South,1645,966,679
+"1958 Setra Bus","Trucks and Buses",South,1579,972,607
+"1952 Citroen-15CV","Classic Cars",East,1452,873,579
+"1957 Corvette Convertible","Classic Cars",East,1249,1013,236
+"1969 Ford Falcon","Classic Cars",East,1049,965,84
+"Diamond T620 Semi-Skirted Tanker","Trucks and Buses",South,1016,979,37
+"1970 Chevy Chevelle SS 454","Classic Cars",East,1005,803,202
+"P-51-D Mustang",Planes,North,992,917,75
+"1996 Peterbilt 379 Stake Bed with Outrigger","Trucks and Buses",South,814,988,-174
+"The Mayflower",Ships,South,737,898,-161
+"2002 Yamaha YZR M1",Motorcycles,North,600,992,-392
+"F/A 18 Hornet 1/72",Planes,North,551,1047,-496
+"1928 Mercedes-Benz SSK","Vintage Cars",West,548,880,-332
+"1911 Ford Town Car","Vintage Cars",West,540,832,-292
+"Pont Yacht",Ships,South,414,958,-544
+"1997 BMW F650 ST",Motorcycles,North,178,1014,-836
+"1928 Ford Phaeton Deluxe","Vintage Cars",West,136,972,-836
+"1968 Ford Mustang","Classic Cars",East,68,933,-865
+"1960 BSA Gold Star DBD34",Motorcycles,North,15,1015,-1000
